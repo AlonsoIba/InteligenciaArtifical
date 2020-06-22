@@ -1,0 +1,11 @@
+Estadística:
+Es una ciencia exacta que analiza variabilidades a partir de una muestra representativa
+
+Estadística inferencial:
+Modela fenómenos para poder infererlos o predecirlos.
+
+Estadística descriptiva:
+Se dedica a resumir datos de manera númerica o gráfica.
+
+Media o promedio:
+Es una función constante que da un atributo de comportamiento.

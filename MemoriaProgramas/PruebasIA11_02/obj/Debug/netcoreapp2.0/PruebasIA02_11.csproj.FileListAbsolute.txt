@@ -1,0 +1,15 @@
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA02_11.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA02_11.AssemblyInfoInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA02_11.AssemblyInfo.cs
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA02_11.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\bin\Debug\netcoreapp2.0\PruebasIA02_11.deps.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\bin\Debug\netcoreapp2.0\PruebasIA02_11.runtimeconfig.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\bin\Debug\netcoreapp2.0\PruebasIA02_11.runtimeconfig.dev.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\bin\Debug\netcoreapp2.0\PruebasIA02_11.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\bin\Debug\netcoreapp2.0\PruebasIA02_11.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\bin\Debug\netcoreapp2.0\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\bin\Debug\netcoreapp2.0\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA02_11.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA02_11.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA02_11.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA02_11.genruntimeconfig.cache

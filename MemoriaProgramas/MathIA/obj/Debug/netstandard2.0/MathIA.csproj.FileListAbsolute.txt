@@ -1,0 +1,8 @@
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\bin\Debug\netstandard2.0\MathIA.deps.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\bin\Debug\netstandard2.0\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\bin\Debug\netstandard2.0\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\obj\Debug\netstandard2.0\MathIA.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\obj\Debug\netstandard2.0\MathIA.AssemblyInfoInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\obj\Debug\netstandard2.0\MathIA.AssemblyInfo.cs
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\obj\Debug\netstandard2.0\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\obj\Debug\netstandard2.0\MathIA.pdb

@@ -1,0 +1,12 @@
+El proyecto se encuentra en la carpeta XOR, siendo el archivo XOR.sln
+
+○ClasificadorLunetas
+	Parte del programa implementado en el proyecto
+○ClasificadorRGB
+	Clasificador por RNA de colores en formato RGB
+○EntrenamientoRGB
+	Entrenamiento de una red y generación de la misma para exportar a otro programa
+○PruebaRGB
+	Prueba de una red entrenada en otro programa
+○XOR
+	Programa para enternder la api Encog

@@ -1,0 +1,13 @@
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\bin\Debug\netcoreapp3.1\Practica1Consola.exe
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\bin\Debug\netcoreapp3.1\Practica1Consola.deps.json
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\bin\Debug\netcoreapp3.1\Practica1Consola.runtimeconfig.json
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\bin\Debug\netcoreapp3.1\Practica1Consola.runtimeconfig.dev.json
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\bin\Debug\netcoreapp3.1\Practica1Consola.dll
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\bin\Debug\netcoreapp3.1\Practica1Consola.pdb
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\obj\Debug\netcoreapp3.1\Practica1Consola.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\obj\Debug\netcoreapp3.1\Practica1Consola.csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\obj\Debug\netcoreapp3.1\Practica1Consola.AssemblyInfoInputs.cache
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\obj\Debug\netcoreapp3.1\Practica1Consola.AssemblyInfo.cs
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\obj\Debug\netcoreapp3.1\Practica1Consola.dll
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\obj\Debug\netcoreapp3.1\Practica1Consola.pdb
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Consola\obj\Debug\netcoreapp3.1\Practica1Consola.genruntimeconfig.cache

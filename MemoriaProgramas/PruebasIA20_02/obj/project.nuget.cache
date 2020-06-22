@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNUyjnQjvEqtGWIBwiLauJFZr8PP6tzKcWfOblW9SmuTwDx2BUNY5Lxu4WvkwSdcCzASmUhVTz6RxxSlYrTC1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\MemoriaProgramas\\PruebasIA20_02\\PruebasIA02_25.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soyal\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\soyal\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\soyal\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\soyal\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\soyal\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\soyal\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\soyal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

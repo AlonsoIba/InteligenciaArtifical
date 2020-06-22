@@ -1,0 +1,19 @@
+Las funciones no constantes se pueden reconstruir a partir de sus funciones matemáticas.
+f(x)=Asin(bx+phi)+C	(Senoidal)
+f(x)=mx+b		(Lineal)
+
+Con la regresión lineal se puede aplicar para solucionar las funciones lineales.
+Ajusta una serie de puntos a una línea recta
+
+	(N Sum(x*y)-(Sum(x))(Sum(y)))
+    m=--------------------------------
+	  (n(Sum(x^2))-(Sum(x))^2)
+
+	(Sum(y)-m(Sum(x)))
+    y=------------------------
+		(n)
+
+donde:
+N: Número de muestras
+x: Variable independiente
+y: Variable dependiente

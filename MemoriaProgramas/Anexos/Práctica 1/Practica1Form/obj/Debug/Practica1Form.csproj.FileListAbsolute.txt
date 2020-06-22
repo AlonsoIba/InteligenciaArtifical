@@ -1,0 +1,10 @@
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Form\obj\Debug\Practica1Form.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Form\obj\Debug\Practica1Form.Form1.resources
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Form\obj\Debug\Practica1Form.Properties.Resources.resources
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Form\obj\Debug\Practica1Form.csproj.GenerateResource.cache
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Form\obj\Debug\Practica1Form.csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Form\bin\Debug\Practica1Form.exe.config
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Form\bin\Debug\Practica1Form.exe
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Form\bin\Debug\Practica1Form.pdb
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Form\obj\Debug\Practica1Form.exe
+D:\InteligenciaArtificial\Anexos\Práctica 1\Practica1Form\obj\Debug\Practica1Form.pdb

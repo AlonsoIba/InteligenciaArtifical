@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\MemoriaProgramas\\MathIA\\MathIA.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\MemoriaProgramas\\MathIA\\MathIA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\MemoriaProgramas\\MathIA\\MathIA.csproj",
+        "projectName": "MathIA",
+        "projectPath": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\MemoriaProgramas\\MathIA\\MathIA.csproj",
+        "packagesPath": "C:\\Users\\soyal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\MemoriaProgramas\\MathIA\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\soyal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

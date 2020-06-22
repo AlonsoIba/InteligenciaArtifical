@@ -1,0 +1,32 @@
+D:\InteligenciaArtificial\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.exe
+D:\InteligenciaArtificial\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.deps.json
+D:\InteligenciaArtificial\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.runtimeconfig.json
+D:\InteligenciaArtificial\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.runtimeconfig.dev.json
+D:\InteligenciaArtificial\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.dll
+D:\InteligenciaArtificial\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.pdb
+D:\InteligenciaArtificial\EstimacionPendiente\bin\Debug\netcoreapp3.1\MathIA.dll
+D:\InteligenciaArtificial\EstimacionPendiente\bin\Debug\netcoreapp3.1\MathIA.pdb
+D:\InteligenciaArtificial\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.AssemblyInfoInputs.cache
+D:\InteligenciaArtificial\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.AssemblyInfo.cs
+D:\InteligenciaArtificial\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.csproj.CopyComplete
+D:\InteligenciaArtificial\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.dll
+D:\InteligenciaArtificial\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.pdb
+D:\InteligenciaArtificial\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.genruntimeconfig.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.deps.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.runtimeconfig.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.runtimeconfig.dev.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\bin\Debug\netcoreapp3.1\EstimacionPendiente.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\bin\Debug\netcoreapp3.1\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\bin\Debug\netcoreapp3.1\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.AssemblyInfoInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.AssemblyInfo.cs
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionPendiente\obj\Debug\netcoreapp3.1\EstimacionPendiente.genruntimeconfig.cache

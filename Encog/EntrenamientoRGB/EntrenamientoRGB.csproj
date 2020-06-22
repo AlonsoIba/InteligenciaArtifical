@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="encog-core-cs">
+      <HintPath>..\encog-dotnet-core-master\encog-dotnet-core-master\encog-core-cs\bin\Release\encog-core-cs.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

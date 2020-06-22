@@ -1,0 +1,52 @@
+D:\InteligenciaArtificial\ComparacionMuestras\bin\Debug\ComparacionMuestras.exe.config
+D:\InteligenciaArtificial\ComparacionMuestras\bin\Debug\ComparacionMuestras.exe
+D:\InteligenciaArtificial\ComparacionMuestras\bin\Debug\ComparacionMuestras.pdb
+D:\InteligenciaArtificial\ComparacionMuestras\bin\Debug\MathIA.dll
+D:\InteligenciaArtificial\ComparacionMuestras\bin\Debug\MathIA.pdb
+D:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.Form1.resources
+D:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.Properties.Resources.resources
+D:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.GenerateResource.cache
+D:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.CopyComplete
+D:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.exe
+D:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.pdb
+E:\InteligenciaArtificial\ComparacionMuestras\bin\Debug\ComparacionMuestras.exe.config
+E:\InteligenciaArtificial\ComparacionMuestras\bin\Debug\ComparacionMuestras.exe
+E:\InteligenciaArtificial\ComparacionMuestras\bin\Debug\ComparacionMuestras.pdb
+E:\InteligenciaArtificial\ComparacionMuestras\bin\Debug\MathIA.dll
+E:\InteligenciaArtificial\ComparacionMuestras\bin\Debug\MathIA.pdb
+E:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csprojAssemblyReference.cache
+E:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.Form1.resources
+E:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.Properties.Resources.resources
+E:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.GenerateResource.cache
+E:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.CoreCompileInputs.cache
+E:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.CopyComplete
+E:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.exe
+E:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.pdb
+D:\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\bin\Debug\ComparacionMuestras.exe.config
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\bin\Debug\ComparacionMuestras.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\bin\Debug\ComparacionMuestras.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\bin\Debug\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\bin\Debug\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.Form1.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.Properties.Resources.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.GenerateResource.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\ComparacionMuestras\obj\Debug\ComparacionMuestras.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\bin\Debug\ComparacionMuestras.exe.config
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\bin\Debug\ComparacionMuestras.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\bin\Debug\ComparacionMuestras.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\bin\Debug\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\bin\Debug\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\obj\Debug\ComparacionMuestras.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\obj\Debug\ComparacionMuestras.Form1.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\obj\Debug\ComparacionMuestras.Properties.Resources.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.GenerateResource.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\obj\Debug\ComparacionMuestras.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\obj\Debug\ComparacionMuestras.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ComparacionMuestras\obj\Debug\ComparacionMuestras.pdb

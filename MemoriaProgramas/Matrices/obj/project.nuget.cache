@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRPNaeObi+QgCEjcrnMiQ/h47QVetMJ52Ilbv+rz6jJS0B1KS00AbD67mnhysAc6Qerx5If9CLpJITS/pFFwTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\MemoriaProgramas\\Matrices\\Matrices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soyal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

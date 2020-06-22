@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9YxfK/Eh5/BmVcOsU/l9qm0sICm+bBkNvA0hs4iWKU70gZzmdonmp4HCSlOjgsjk4IVLsrKVNfulzOzZf0JKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\MemoriaProgramas\\ProgramacionConcurrente\\ProgramacionConcurrente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soyal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

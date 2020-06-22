@@ -1,0 +1,26 @@
+D:\InteligenciaArtificial\Perceptron1\bin\Debug\Perceptron1.exe.config
+D:\InteligenciaArtificial\Perceptron1\bin\Debug\Perceptron1.exe
+D:\InteligenciaArtificial\Perceptron1\bin\Debug\Perceptron1.pdb
+D:\InteligenciaArtificial\Perceptron1\obj\Debug\Perceptron1.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\Perceptron1\obj\Debug\Perceptron1.Form1.resources
+D:\InteligenciaArtificial\Perceptron1\obj\Debug\Perceptron1.Properties.Resources.resources
+D:\InteligenciaArtificial\Perceptron1\obj\Debug\Perceptron1.csproj.GenerateResource.cache
+D:\InteligenciaArtificial\Perceptron1\obj\Debug\Perceptron1.csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\Perceptron1\obj\Debug\Perceptron1.exe
+D:\InteligenciaArtificial\Perceptron1\obj\Debug\Perceptron1.pdb
+D:\InteligenciaArtificial\Perceptron1\bin\Debug\MathIA.dll
+D:\InteligenciaArtificial\Perceptron1\bin\Debug\MathIA.pdb
+D:\InteligenciaArtificial\Perceptron1\obj\Debug\Perceptron1.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\bin\Debug\Perceptron1.exe.config
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\bin\Debug\Perceptron1.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\bin\Debug\Perceptron1.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\bin\Debug\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\bin\Debug\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\obj\Debug\Perceptron1.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\obj\Debug\Perceptron1.Form1.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\obj\Debug\Perceptron1.Properties.Resources.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\obj\Debug\Perceptron1.csproj.GenerateResource.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\obj\Debug\Perceptron1.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\obj\Debug\Perceptron1.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\obj\Debug\Perceptron1.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Perceptron1\obj\Debug\Perceptron1.pdb

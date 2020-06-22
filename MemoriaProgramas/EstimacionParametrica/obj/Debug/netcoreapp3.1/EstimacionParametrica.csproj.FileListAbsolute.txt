@@ -1,0 +1,32 @@
+D:\InteligenciaArtificial\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.AssemblyInfoInputs.cache
+D:\InteligenciaArtificial\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.AssemblyInfo.cs
+D:\InteligenciaArtificial\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.exe
+D:\InteligenciaArtificial\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.deps.json
+D:\InteligenciaArtificial\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.runtimeconfig.json
+D:\InteligenciaArtificial\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.runtimeconfig.dev.json
+D:\InteligenciaArtificial\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.dll
+D:\InteligenciaArtificial\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.pdb
+D:\InteligenciaArtificial\EstimacionParametrica\bin\Debug\netcoreapp3.1\MathIA.dll
+D:\InteligenciaArtificial\EstimacionParametrica\bin\Debug\netcoreapp3.1\MathIA.pdb
+D:\InteligenciaArtificial\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.csproj.CopyComplete
+D:\InteligenciaArtificial\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.dll
+D:\InteligenciaArtificial\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.pdb
+D:\InteligenciaArtificial\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.genruntimeconfig.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.deps.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.runtimeconfig.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.runtimeconfig.dev.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\bin\Debug\netcoreapp3.1\EstimacionParametrica.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\bin\Debug\netcoreapp3.1\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\bin\Debug\netcoreapp3.1\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.AssemblyInfoInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.AssemblyInfo.cs
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionParametrica\obj\Debug\netcoreapp3.1\EstimacionParametrica.genruntimeconfig.cache

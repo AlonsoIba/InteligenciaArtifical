@@ -1,0 +1,32 @@
+D:\InteligenciaArtificial\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.exe
+D:\InteligenciaArtificial\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.deps.json
+D:\InteligenciaArtificial\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.runtimeconfig.json
+D:\InteligenciaArtificial\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.runtimeconfig.dev.json
+D:\InteligenciaArtificial\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.dll
+D:\InteligenciaArtificial\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.pdb
+D:\InteligenciaArtificial\EstimacionED2\bin\Debug\netcoreapp3.1\MathIA.dll
+D:\InteligenciaArtificial\EstimacionED2\bin\Debug\netcoreapp3.1\MathIA.pdb
+D:\InteligenciaArtificial\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.AssemblyInfoInputs.cache
+D:\InteligenciaArtificial\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.AssemblyInfo.cs
+D:\InteligenciaArtificial\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.csproj.CopyComplete
+D:\InteligenciaArtificial\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.dll
+D:\InteligenciaArtificial\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.pdb
+D:\InteligenciaArtificial\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.genruntimeconfig.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.deps.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.runtimeconfig.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.runtimeconfig.dev.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\bin\Debug\netcoreapp3.1\EstimacionED2.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\bin\Debug\netcoreapp3.1\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\bin\Debug\netcoreapp3.1\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.AssemblyInfoInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.AssemblyInfo.cs
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\EstimacionED2\obj\Debug\netcoreapp3.1\EstimacionED2.genruntimeconfig.cache

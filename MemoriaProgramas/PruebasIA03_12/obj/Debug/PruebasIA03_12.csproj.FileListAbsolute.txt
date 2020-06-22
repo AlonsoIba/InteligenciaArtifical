@@ -1,0 +1,30 @@
+E:\InteligenciaArtificial\PruebasIA03_12\bin\Debug\PruebasIA03_12.exe.config
+E:\InteligenciaArtificial\PruebasIA03_12\bin\Debug\PruebasIA03_12.exe
+E:\InteligenciaArtificial\PruebasIA03_12\bin\Debug\PruebasIA03_12.pdb
+E:\InteligenciaArtificial\PruebasIA03_12\bin\Debug\MathIA.dll
+E:\InteligenciaArtificial\PruebasIA03_12\bin\Debug\MathIA.pdb
+E:\InteligenciaArtificial\PruebasIA03_12\obj\Debug\PruebasIA03_12.csprojAssemblyReference.cache
+E:\InteligenciaArtificial\PruebasIA03_12\obj\Debug\PruebasIA03_12.csproj.CoreCompileInputs.cache
+E:\InteligenciaArtificial\PruebasIA03_12\obj\Debug\PruebasIA03_12.csproj.CopyComplete
+E:\InteligenciaArtificial\PruebasIA03_12\obj\Debug\PruebasIA03_12.exe
+E:\InteligenciaArtificial\PruebasIA03_12\obj\Debug\PruebasIA03_12.pdb
+D:\InteligenciaArtificial\PruebasIA03_12\bin\Debug\PruebasIA03_12.exe.config
+D:\InteligenciaArtificial\PruebasIA03_12\bin\Debug\PruebasIA03_12.exe
+D:\InteligenciaArtificial\PruebasIA03_12\bin\Debug\PruebasIA03_12.pdb
+D:\InteligenciaArtificial\PruebasIA03_12\bin\Debug\MathIA.dll
+D:\InteligenciaArtificial\PruebasIA03_12\bin\Debug\MathIA.pdb
+D:\InteligenciaArtificial\PruebasIA03_12\obj\Debug\PruebasIA03_12.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\PruebasIA03_12\obj\Debug\PruebasIA03_12.csproj.CopyComplete
+D:\InteligenciaArtificial\PruebasIA03_12\obj\Debug\PruebasIA03_12.exe
+D:\InteligenciaArtificial\PruebasIA03_12\obj\Debug\PruebasIA03_12.pdb
+D:\InteligenciaArtificial\PruebasIA03_12\obj\Debug\PruebasIA03_12.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_12\bin\Debug\PruebasIA03_12.exe.config
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_12\bin\Debug\PruebasIA03_12.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_12\bin\Debug\PruebasIA03_12.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_12\bin\Debug\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_12\bin\Debug\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_12\obj\Debug\PruebasIA03_12.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_12\obj\Debug\PruebasIA03_12.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_12\obj\Debug\PruebasIA03_12.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_12\obj\Debug\PruebasIA03_12.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_12\obj\Debug\PruebasIA03_12.pdb

@@ -1,0 +1,26 @@
+D:\InteligenciaArtificial\Red2Neuronas\bin\Debug\Red2Neuronas.exe.config
+D:\InteligenciaArtificial\Red2Neuronas\bin\Debug\Red2Neuronas.exe
+D:\InteligenciaArtificial\Red2Neuronas\bin\Debug\Red2Neuronas.pdb
+D:\InteligenciaArtificial\Red2Neuronas\bin\Debug\MathIA.dll
+D:\InteligenciaArtificial\Red2Neuronas\bin\Debug\MathIA.pdb
+D:\InteligenciaArtificial\Red2Neuronas\obj\Debug\Red2Neuronas.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\Red2Neuronas\obj\Debug\Red2Neuronas.Form1.resources
+D:\InteligenciaArtificial\Red2Neuronas\obj\Debug\Red2Neuronas.Properties.Resources.resources
+D:\InteligenciaArtificial\Red2Neuronas\obj\Debug\Red2Neuronas.csproj.GenerateResource.cache
+D:\InteligenciaArtificial\Red2Neuronas\obj\Debug\Red2Neuronas.csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\Red2Neuronas\obj\Debug\Red2Neuronas.csproj.CopyComplete
+D:\InteligenciaArtificial\Red2Neuronas\obj\Debug\Red2Neuronas.exe
+D:\InteligenciaArtificial\Red2Neuronas\obj\Debug\Red2Neuronas.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\obj\Debug\Red2Neuronas.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\obj\Debug\Red2Neuronas.Form1.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\obj\Debug\Red2Neuronas.Properties.Resources.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\obj\Debug\Red2Neuronas.csproj.GenerateResource.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\obj\Debug\Red2Neuronas.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\obj\Debug\Red2Neuronas.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\obj\Debug\Red2Neuronas.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\bin\Debug\Red2Neuronas.exe.config
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\bin\Debug\Red2Neuronas.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\bin\Debug\Red2Neuronas.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\bin\Debug\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\bin\Debug\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\Red2Neuronas\obj\Debug\Red2Neuronas.csproj.CopyComplete

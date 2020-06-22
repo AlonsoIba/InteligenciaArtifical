@@ -1,0 +1,32 @@
+D:\InteligenciaArtificial\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.exe
+D:\InteligenciaArtificial\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.deps.json
+D:\InteligenciaArtificial\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.runtimeconfig.json
+D:\InteligenciaArtificial\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.runtimeconfig.dev.json
+D:\InteligenciaArtificial\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.dll
+D:\InteligenciaArtificial\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.pdb
+D:\InteligenciaArtificial\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\MathIA.dll
+D:\InteligenciaArtificial\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\MathIA.pdb
+D:\InteligenciaArtificial\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.AssemblyInfoInputs.cache
+D:\InteligenciaArtificial\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.AssemblyInfo.cs
+D:\InteligenciaArtificial\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.csproj.CopyComplete
+D:\InteligenciaArtificial\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.dll
+D:\InteligenciaArtificial\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.pdb
+D:\InteligenciaArtificial\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.genruntimeconfig.cache
+D:\InteligenciaArtificial\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.deps.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.runtimeconfig.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.runtimeconfig.dev.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\ProgramacionConcurrente.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\bin\Debug\netcoreapp3.1\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.AssemblyInfoInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.AssemblyInfo.cs
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ProgramacionConcurrente\obj\Debug\netcoreapp3.1\ProgramacionConcurrente.genruntimeconfig.cache

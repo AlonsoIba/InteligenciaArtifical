@@ -1,0 +1,14 @@
+D:\InteligenciaArtificial\PruebasIA20_02\bin\Debug\netcoreapp3.1\PruebasIA25_02.exe
+D:\InteligenciaArtificial\PruebasIA20_02\bin\Debug\netcoreapp3.1\PruebasIA25_02.deps.json
+D:\InteligenciaArtificial\PruebasIA20_02\bin\Debug\netcoreapp3.1\PruebasIA25_02.runtimeconfig.json
+D:\InteligenciaArtificial\PruebasIA20_02\bin\Debug\netcoreapp3.1\PruebasIA25_02.runtimeconfig.dev.json
+D:\InteligenciaArtificial\PruebasIA20_02\bin\Debug\netcoreapp3.1\PruebasIA25_02.dll
+D:\InteligenciaArtificial\PruebasIA20_02\bin\Debug\netcoreapp3.1\PruebasIA25_02.pdb
+D:\InteligenciaArtificial\PruebasIA20_02\bin\Debug\netcoreapp3.1\MathIA.dll
+D:\InteligenciaArtificial\PruebasIA20_02\bin\Debug\netcoreapp3.1\MathIA.pdb
+D:\InteligenciaArtificial\PruebasIA20_02\obj\Debug\netcoreapp3.1\PruebasIA25_02.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\PruebasIA20_02\obj\Debug\netcoreapp3.1\PruebasIA25_02.AssemblyInfoInputs.cache
+D:\InteligenciaArtificial\PruebasIA20_02\obj\Debug\netcoreapp3.1\PruebasIA25_02.AssemblyInfo.cs
+D:\InteligenciaArtificial\PruebasIA20_02\obj\Debug\netcoreapp3.1\PruebasIA25_02.csproj.CopyComplete
+D:\InteligenciaArtificial\PruebasIA20_02\obj\Debug\netcoreapp3.1\PruebasIA25_02.dll
+D:\InteligenciaArtificial\PruebasIA20_02\obj\Debug\netcoreapp3.1\PruebasIA25_02.pdb

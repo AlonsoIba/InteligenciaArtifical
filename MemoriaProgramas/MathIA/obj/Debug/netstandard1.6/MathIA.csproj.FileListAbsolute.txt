@@ -1,0 +1,36 @@
+E:\InteligenciaArtificial\MathIA\bin\Debug\netstandard1.6\MathIA.deps.json
+E:\InteligenciaArtificial\MathIA\bin\Debug\netstandard1.6\MathIA.dll
+E:\InteligenciaArtificial\MathIA\bin\Debug\netstandard1.6\MathIA.pdb
+E:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.csprojAssemblyReference.cache
+E:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.csproj.CoreCompileInputs.cache
+E:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.AssemblyInfoInputs.cache
+E:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.AssemblyInfo.cs
+E:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.dll
+E:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\bin\Debug\netstandard1.6\MathIA.deps.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\bin\Debug\netstandard1.6\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\bin\Debug\netstandard1.6\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.AssemblyInfoInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.AssemblyInfo.cs
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.pdb
+D:\InteligenciaArtificial\MathIA\bin\Debug\netstandard1.6\MathIA.deps.json
+D:\InteligenciaArtificial\MathIA\bin\Debug\netstandard1.6\MathIA.dll
+D:\InteligenciaArtificial\MathIA\bin\Debug\netstandard1.6\MathIA.pdb
+D:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.AssemblyInfoInputs.cache
+D:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.AssemblyInfo.cs
+D:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.dll
+D:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.pdb
+D:\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MathIA\obj\Debug\netstandard1.6\MathIA.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MathIA\bin\Debug\netstandard1.6\MathIA.deps.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MathIA\bin\Debug\netstandard1.6\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MathIA\bin\Debug\netstandard1.6\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MathIA\obj\Debug\netstandard1.6\MathIA.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MathIA\obj\Debug\netstandard1.6\MathIA.AssemblyInfoInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MathIA\obj\Debug\netstandard1.6\MathIA.AssemblyInfo.cs
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MathIA\obj\Debug\netstandard1.6\MathIA.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MathIA\obj\Debug\netstandard1.6\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MathIA\obj\Debug\netstandard1.6\MathIA.pdb

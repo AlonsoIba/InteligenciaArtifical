@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\InteligenciaArtificial\\PruebasIA20_02\\PruebasIA20_02.csproj": {}
+  },
+  "projects": {
+    "D:\\InteligenciaArtificial\\MathIA\\MathIA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\InteligenciaArtificial\\MathIA\\MathIA.csproj",
+        "projectName": "MathIA",
+        "projectPath": "D:\\InteligenciaArtificial\\MathIA\\MathIA.csproj",
+        "packagesPath": "C:\\Users\\alumnos\\.nuget\\packages\\",
+        "outputPath": "D:\\InteligenciaArtificial\\MathIA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alumnos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\InteligenciaArtificial\\PruebasIA20_02\\PruebasIA20_02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\InteligenciaArtificial\\PruebasIA20_02\\PruebasIA20_02.csproj",
+        "projectName": "PruebasIA20_02",
+        "projectPath": "D:\\InteligenciaArtificial\\PruebasIA20_02\\PruebasIA20_02.csproj",
+        "packagesPath": "C:\\Users\\alumnos\\.nuget\\packages\\",
+        "outputPath": "D:\\InteligenciaArtificial\\PruebasIA20_02\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alumnos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\InteligenciaArtificial\\MathIA\\MathIA.csproj": {
+                "projectPath": "D:\\InteligenciaArtificial\\MathIA\\MathIA.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

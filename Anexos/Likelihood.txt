@@ -1,0 +1,3 @@
+Likelihood es un punto en la curva de probabilidad.
+
+Hacer un programa que determine que clase de objeto es a partir de dos muestras.

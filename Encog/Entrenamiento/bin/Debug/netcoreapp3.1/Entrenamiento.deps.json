@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Entrenamiento/1.0.0": {
+        "dependencies": {
+          "encog-core-cs": "3.3.0.0"
+        },
+        "runtime": {
+          "Entrenamiento.dll": {}
+        }
+      },
+      "encog-core-cs/3.3.0.0": {
+        "runtime": {
+          "encog-core-cs.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entrenamiento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "encog-core-cs/3.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

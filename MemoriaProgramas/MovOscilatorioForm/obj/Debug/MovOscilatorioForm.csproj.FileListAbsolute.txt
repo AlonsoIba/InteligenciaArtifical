@@ -1,0 +1,26 @@
+D:\InteligenciaArtificial\MovOscilatorioForm\bin\Debug\MovOscilatorioForm.exe.config
+D:\InteligenciaArtificial\MovOscilatorioForm\bin\Debug\MovOscilatorioForm.exe
+D:\InteligenciaArtificial\MovOscilatorioForm\bin\Debug\MovOscilatorioForm.pdb
+D:\InteligenciaArtificial\MovOscilatorioForm\bin\Debug\MathIA.dll
+D:\InteligenciaArtificial\MovOscilatorioForm\bin\Debug\MathIA.pdb
+D:\InteligenciaArtificial\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.Form1.resources
+D:\InteligenciaArtificial\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.Properties.Resources.resources
+D:\InteligenciaArtificial\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.csproj.GenerateResource.cache
+D:\InteligenciaArtificial\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.csproj.CopyComplete
+D:\InteligenciaArtificial\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.exe
+D:\InteligenciaArtificial\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\bin\Debug\MovOscilatorioForm.exe.config
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\bin\Debug\MovOscilatorioForm.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\bin\Debug\MovOscilatorioForm.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\bin\Debug\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\bin\Debug\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.Form1.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.Properties.Resources.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.csproj.GenerateResource.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovOscilatorioForm\obj\Debug\MovOscilatorioForm.pdb

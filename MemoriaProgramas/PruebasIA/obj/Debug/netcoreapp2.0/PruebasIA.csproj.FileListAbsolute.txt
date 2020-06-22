@@ -1,0 +1,33 @@
+E:\InteligenciaArtificial\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.deps.json
+E:\InteligenciaArtificial\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.runtimeconfig.json
+E:\InteligenciaArtificial\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.runtimeconfig.dev.json
+E:\InteligenciaArtificial\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.dll
+E:\InteligenciaArtificial\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.pdb
+E:\InteligenciaArtificial\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.csprojAssemblyReference.cache
+E:\InteligenciaArtificial\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.csproj.CoreCompileInputs.cache
+E:\InteligenciaArtificial\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.AssemblyInfoInputs.cache
+E:\InteligenciaArtificial\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.AssemblyInfo.cs
+E:\InteligenciaArtificial\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.dll
+E:\InteligenciaArtificial\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.pdb
+D:\InteligenciaArtificial\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.deps.json
+D:\InteligenciaArtificial\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.runtimeconfig.json
+D:\InteligenciaArtificial\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.runtimeconfig.dev.json
+D:\InteligenciaArtificial\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.dll
+D:\InteligenciaArtificial\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.pdb
+D:\InteligenciaArtificial\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.AssemblyInfoInputs.cache
+D:\InteligenciaArtificial\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.AssemblyInfo.cs
+D:\InteligenciaArtificial\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.dll
+D:\InteligenciaArtificial\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.deps.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.runtimeconfig.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.runtimeconfig.dev.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\bin\Debug\netcoreapp2.0\PruebasIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.AssemblyInfoInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.AssemblyInfo.cs
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA\obj\Debug\netcoreapp2.0\PruebasIA.genruntimeconfig.cache

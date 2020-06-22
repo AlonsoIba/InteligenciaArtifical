@@ -1,0 +1,3 @@
+Comparación entre 3 objectos
+Minimo 50 muestras por objeto 
+Sensor RGB

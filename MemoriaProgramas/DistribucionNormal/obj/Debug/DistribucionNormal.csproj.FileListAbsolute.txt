@@ -1,0 +1,52 @@
+D:\InteligenciaArtificial\DistribucionNormal\bin\Debug\DistribucionNormal.exe.config
+D:\InteligenciaArtificial\DistribucionNormal\bin\Debug\DistribucionNormal.exe
+D:\InteligenciaArtificial\DistribucionNormal\bin\Debug\DistribucionNormal.pdb
+D:\InteligenciaArtificial\DistribucionNormal\bin\Debug\MathIA.dll
+D:\InteligenciaArtificial\DistribucionNormal\bin\Debug\MathIA.pdb
+D:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.Form1.resources
+D:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.Properties.Resources.resources
+D:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.GenerateResource.cache
+D:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.CopyComplete
+D:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.exe
+D:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.pdb
+E:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csprojAssemblyReference.cache
+E:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.Form1.resources
+E:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.Properties.Resources.resources
+E:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.GenerateResource.cache
+E:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.CoreCompileInputs.cache
+E:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.exe
+E:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.pdb
+E:\InteligenciaArtificial\DistribucionNormal\bin\Debug\DistribucionNormal.exe.config
+E:\InteligenciaArtificial\DistribucionNormal\bin\Debug\DistribucionNormal.exe
+E:\InteligenciaArtificial\DistribucionNormal\bin\Debug\DistribucionNormal.pdb
+E:\InteligenciaArtificial\DistribucionNormal\bin\Debug\MathIA.dll
+E:\InteligenciaArtificial\DistribucionNormal\bin\Debug\MathIA.pdb
+E:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.CopyComplete
+D:\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\bin\Debug\DistribucionNormal.exe.config
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\bin\Debug\DistribucionNormal.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\bin\Debug\DistribucionNormal.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\bin\Debug\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\bin\Debug\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.Form1.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.Properties.Resources.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.GenerateResource.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\DistribucionNormal\obj\Debug\DistribucionNormal.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\bin\Debug\DistribucionNormal.exe.config
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\bin\Debug\DistribucionNormal.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\bin\Debug\DistribucionNormal.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\bin\Debug\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\bin\Debug\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\obj\Debug\DistribucionNormal.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\obj\Debug\DistribucionNormal.Form1.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\obj\Debug\DistribucionNormal.Properties.Resources.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.GenerateResource.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\obj\Debug\DistribucionNormal.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\DistribucionNormal\obj\Debug\DistribucionNormal.pdb

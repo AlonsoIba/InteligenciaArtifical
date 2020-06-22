@@ -1,0 +1,7 @@
+El centro de la distribución es la media de los valores
+a +-std hay un 68.2689% de los valores
+a +-2std hay un 95.4499% de los valores
+a +-std hay un 99.73% de los valores
+
+La media (mu), la desviación estándar (sigma) y la varianza (sigma^2)
+rigen la distribución normal

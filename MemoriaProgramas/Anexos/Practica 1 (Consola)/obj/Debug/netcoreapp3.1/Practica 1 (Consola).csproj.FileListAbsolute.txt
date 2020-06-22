@@ -1,0 +1,13 @@
+D:\InteligenciaArtificial\Practica 1 (Consola)\bin\Debug\netcoreapp3.1\Practica 1 (Consola).exe
+D:\InteligenciaArtificial\Practica 1 (Consola)\bin\Debug\netcoreapp3.1\Practica 1 (Consola).deps.json
+D:\InteligenciaArtificial\Practica 1 (Consola)\bin\Debug\netcoreapp3.1\Practica 1 (Consola).runtimeconfig.json
+D:\InteligenciaArtificial\Practica 1 (Consola)\bin\Debug\netcoreapp3.1\Practica 1 (Consola).runtimeconfig.dev.json
+D:\InteligenciaArtificial\Practica 1 (Consola)\bin\Debug\netcoreapp3.1\Practica 1 (Consola).dll
+D:\InteligenciaArtificial\Practica 1 (Consola)\bin\Debug\netcoreapp3.1\Practica 1 (Consola).pdb
+D:\InteligenciaArtificial\Practica 1 (Consola)\obj\Debug\netcoreapp3.1\Practica 1 (Consola).csprojAssemblyReference.cache
+D:\InteligenciaArtificial\Practica 1 (Consola)\obj\Debug\netcoreapp3.1\Practica 1 (Consola).csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\Practica 1 (Consola)\obj\Debug\netcoreapp3.1\Practica 1 (Consola).AssemblyInfoInputs.cache
+D:\InteligenciaArtificial\Practica 1 (Consola)\obj\Debug\netcoreapp3.1\Practica 1 (Consola).AssemblyInfo.cs
+D:\InteligenciaArtificial\Practica 1 (Consola)\obj\Debug\netcoreapp3.1\Practica 1 (Consola).dll
+D:\InteligenciaArtificial\Practica 1 (Consola)\obj\Debug\netcoreapp3.1\Practica 1 (Consola).pdb
+D:\InteligenciaArtificial\Practica 1 (Consola)\obj\Debug\netcoreapp3.1\Practica 1 (Consola).genruntimeconfig.cache

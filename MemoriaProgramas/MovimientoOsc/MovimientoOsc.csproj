@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MathIA">
+      <HintPath>..\MathIA\bin\Debug\netstandard1.6\MathIA.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

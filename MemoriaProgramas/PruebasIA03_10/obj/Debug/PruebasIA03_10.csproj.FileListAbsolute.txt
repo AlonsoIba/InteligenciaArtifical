@@ -1,0 +1,20 @@
+E:\InteligenciaArtificial\PruebasIA03_10\obj\Debug\PruebasIA03_10.csprojAssemblyReference.cache
+E:\InteligenciaArtificial\PruebasIA03_10\obj\Debug\PruebasIA03_10.csproj.CoreCompileInputs.cache
+E:\InteligenciaArtificial\PruebasIA03_10\bin\Debug\PruebasIA03_10.exe.config
+E:\InteligenciaArtificial\PruebasIA03_10\bin\Debug\PruebasIA03_10.exe
+E:\InteligenciaArtificial\PruebasIA03_10\bin\Debug\PruebasIA03_10.pdb
+E:\InteligenciaArtificial\PruebasIA03_10\bin\Debug\MathIA.dll
+E:\InteligenciaArtificial\PruebasIA03_10\bin\Debug\MathIA.pdb
+E:\InteligenciaArtificial\PruebasIA03_10\obj\Debug\PruebasIA03_10.csproj.CopyComplete
+E:\InteligenciaArtificial\PruebasIA03_10\obj\Debug\PruebasIA03_10.exe
+E:\InteligenciaArtificial\PruebasIA03_10\obj\Debug\PruebasIA03_10.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_10\bin\Debug\PruebasIA03_10.exe.config
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_10\bin\Debug\PruebasIA03_10.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_10\bin\Debug\PruebasIA03_10.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_10\bin\Debug\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_10\bin\Debug\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_10\obj\Debug\PruebasIA03_10.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_10\obj\Debug\PruebasIA03_10.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_10\obj\Debug\PruebasIA03_10.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_10\obj\Debug\PruebasIA03_10.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\PruebasIA03_10\obj\Debug\PruebasIA03_10.pdb

@@ -1,0 +1,14 @@
+E:\InteligenciaArtificial\PruebasIA11_02\bin\Debug\netcoreapp2.0\PruebasIA11_02.deps.json
+E:\InteligenciaArtificial\PruebasIA11_02\bin\Debug\netcoreapp2.0\PruebasIA11_02.runtimeconfig.json
+E:\InteligenciaArtificial\PruebasIA11_02\bin\Debug\netcoreapp2.0\PruebasIA11_02.runtimeconfig.dev.json
+E:\InteligenciaArtificial\PruebasIA11_02\bin\Debug\netcoreapp2.0\PruebasIA11_02.dll
+E:\InteligenciaArtificial\PruebasIA11_02\bin\Debug\netcoreapp2.0\PruebasIA11_02.pdb
+E:\InteligenciaArtificial\PruebasIA11_02\bin\Debug\netcoreapp2.0\MathIA.dll
+E:\InteligenciaArtificial\PruebasIA11_02\bin\Debug\netcoreapp2.0\MathIA.pdb
+E:\InteligenciaArtificial\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA11_02.csprojAssemblyReference.cache
+E:\InteligenciaArtificial\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA11_02.csproj.CoreCompileInputs.cache
+E:\InteligenciaArtificial\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA11_02.AssemblyInfoInputs.cache
+E:\InteligenciaArtificial\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA11_02.AssemblyInfo.cs
+E:\InteligenciaArtificial\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA11_02.csproj.CopyComplete
+E:\InteligenciaArtificial\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA11_02.dll
+E:\InteligenciaArtificial\PruebasIA11_02\obj\Debug\netcoreapp2.0\PruebasIA11_02.pdb

@@ -1,0 +1,76 @@
+El proyecto se encuentra en la carpeta PruebasIA, siendo PruebasIA.sln
+
+
+○Clases
+	○MathIA
+		Clase utilizada durante todo el semestre, contiene las descripciones de cada uno de los métodos
+○Programas con WindowsForm
+	○CalculoPi.
+		Obtiene el valor de pi y muestra el comportamiento del error.
+	○ComparacionMuestras. 
+		Crea 3 muestras con diferente varianza, además determina a que muestra pertenece cierto valor.
+	○DerivadaNumerica. 
+		Derivada númerica de Euler, evalua la primra y segunda derivda de un arrgelo de datos
+	○DistribucionNormal. 
+		Genera una distribución normal de un valor inicial a final con media y desvaición estándar dadas.
+	○ED2Orden. 
+		Obtiene la solución a la ecuación diferencial de un sistema subamortiguado.
+	○EntrenamientoPerceptron.
+		Simulación del entrenamiento de una red perceptron, como vimos en Excel
+	○Examen
+		Programa utilizado en el examen para ver la distribución de las muestras
+	○Integral
+		Obtención de la probabilidad acumulada con el método de Simpson
+	○MovOscilatorioForm
+		Primer intento para obtener la solución a la ecuación de movimiento oscilatorio por descenso de gradiente lineal
+	○PendienteIA
+		Calculo de pendiente y comportamiento del error	
+	○PendienteOrdenadaIA
+		Calculo de pendiente y ordenada al origen por inteligencia artificial
+	○Perceptron1
+		Evaluar la función and y or, los archivos .csv se encuentran en los anexos (AND.csv y OR.csv)
+	 ○ProgramacionConcurrenteForm
+		Evaluar el uso de hilos en un form
+	○Promedio,varianza,desviacion
+		Genera un arreglo aleatorio, determina valores estadísticos y grafica el arreglo mostrando desviaciones de distancia del promedio
+	○Red2Neuronas
+		Genera 2 rectas que separan 3 muestras, el archivo se encuentra en los anexos (Muestras3.csv)
+○Programas en consola
+	○EstimacionED2
+		Programa para probar el algoritmo de estimación paramétrica, utilizada en el programa ED2Orden
+	○EstimacionParametrica
+		Algoritmo de estimación paramétrica por mínimos cuadrados
+	○EstimacionPendiente
+		Comparación del método por inteligencia artificial y regresión lineal para obtener la pendiente
+	○Matrices
+		Probar los métodos de MathIA.Matrices
+	○MovimientoOsc
+		Primer intento para obtener la solución a la ecuación de movimiento oscilatorio por descenso de gradiente lineal
+	○ProgramacionConcurrente
+		Uso de hilos para calcular e y pi 
+	○PruebasExamen
+		Programa de pruebas para el examen, como la lectura del archivo csv
+	○PruebasIA
+		Primer programa para calcular pi
+	○PruebasIA02_11
+		Operaciones aritméticas
+	○PruebasIA02_13
+		Promedio, desvaición y varianza de un arreglo
+	○PruebasIA02_25
+		Generación de una distribución normal a partir de un arreglo
+	○PruebasIA02_27
+		Implementación del Objeto estadístico
+	○PruebasIA03_05
+		Métodos de integración numerica
+	○PruebasIA03_10
+		Likelyhood de un valor a una muestra
+	○PruebasIA03_12
+		Método de regresión lineal, se hizo la prueba con una práctica de dinámica de maquinaria
+	○PruebasIA_03_24
+		Algoritmo para estimar pendiente por inteligencia artificial
+	○PruebasIA03_26
+		Estimación de pendiente y ordenada al origen por descenso de gradiente
+	○PruebasIA04_27
+		Programas para videos de HackeandoTec
+	○PruebasIA04_30
+		Pruebas de métodos de MathIA.RNA

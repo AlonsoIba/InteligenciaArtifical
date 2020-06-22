@@ -1,0 +1,17 @@
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\bin\Debug\netcoreapp3.1\PruebaRGB.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\bin\Debug\netcoreapp3.1\PruebaRGB.deps.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\bin\Debug\netcoreapp3.1\PruebaRGB.runtimeconfig.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\bin\Debug\netcoreapp3.1\PruebaRGB.runtimeconfig.dev.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\bin\Debug\netcoreapp3.1\PruebaRGB.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\bin\Debug\netcoreapp3.1\PruebaRGB.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\bin\Debug\netcoreapp3.1\encog-core-cs.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\bin\Debug\netcoreapp3.1\encog-core-cs.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\bin\Debug\netcoreapp3.1\encog-core-cs.xml
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\obj\Debug\netcoreapp3.1\PruebaRGB.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\obj\Debug\netcoreapp3.1\PruebaRGB.AssemblyInfoInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\obj\Debug\netcoreapp3.1\PruebaRGB.AssemblyInfo.cs
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\obj\Debug\netcoreapp3.1\PruebaRGB.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\obj\Debug\netcoreapp3.1\PruebaRGB.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\obj\Debug\netcoreapp3.1\PruebaRGB.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\obj\Debug\netcoreapp3.1\PruebaRGB.genruntimeconfig.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\Encog\PruebaRGB\obj\Debug\netcoreapp3.1\PruebaRGB.csprojAssemblyReference.cache

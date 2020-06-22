@@ -1,0 +1,26 @@
+D:\InteligenciaArtificial\ED2Orden\bin\Debug\ED2Orden.exe.config
+D:\InteligenciaArtificial\ED2Orden\bin\Debug\ED2Orden.exe
+D:\InteligenciaArtificial\ED2Orden\bin\Debug\ED2Orden.pdb
+D:\InteligenciaArtificial\ED2Orden\bin\Debug\MathIA.dll
+D:\InteligenciaArtificial\ED2Orden\bin\Debug\MathIA.pdb
+D:\InteligenciaArtificial\ED2Orden\obj\Debug\ED2Orden.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\ED2Orden\obj\Debug\ED2Orden.Form1.resources
+D:\InteligenciaArtificial\ED2Orden\obj\Debug\ED2Orden.Properties.Resources.resources
+D:\InteligenciaArtificial\ED2Orden\obj\Debug\ED2Orden.csproj.GenerateResource.cache
+D:\InteligenciaArtificial\ED2Orden\obj\Debug\ED2Orden.csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\ED2Orden\obj\Debug\ED2Orden.csproj.CopyComplete
+D:\InteligenciaArtificial\ED2Orden\obj\Debug\ED2Orden.exe
+D:\InteligenciaArtificial\ED2Orden\obj\Debug\ED2Orden.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\bin\Debug\ED2Orden.exe.config
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\bin\Debug\ED2Orden.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\bin\Debug\ED2Orden.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\bin\Debug\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\bin\Debug\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.Form1.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.Properties.Resources.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.csproj.GenerateResource.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.pdb

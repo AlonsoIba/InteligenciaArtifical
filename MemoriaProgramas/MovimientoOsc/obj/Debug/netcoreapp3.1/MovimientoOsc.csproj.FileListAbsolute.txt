@@ -1,0 +1,32 @@
+D:\InteligenciaArtificial\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.exe
+D:\InteligenciaArtificial\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.deps.json
+D:\InteligenciaArtificial\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.runtimeconfig.json
+D:\InteligenciaArtificial\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.runtimeconfig.dev.json
+D:\InteligenciaArtificial\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.dll
+D:\InteligenciaArtificial\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.pdb
+D:\InteligenciaArtificial\MovimientoOsc\bin\Debug\netcoreapp3.1\MathIA.dll
+D:\InteligenciaArtificial\MovimientoOsc\bin\Debug\netcoreapp3.1\MathIA.pdb
+D:\InteligenciaArtificial\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.csproj.CoreCompileInputs.cache
+D:\InteligenciaArtificial\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.AssemblyInfoInputs.cache
+D:\InteligenciaArtificial\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.AssemblyInfo.cs
+D:\InteligenciaArtificial\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.csproj.CopyComplete
+D:\InteligenciaArtificial\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.dll
+D:\InteligenciaArtificial\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.pdb
+D:\InteligenciaArtificial\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.genruntimeconfig.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.deps.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.runtimeconfig.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.runtimeconfig.dev.json
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\bin\Debug\netcoreapp3.1\MovimientoOsc.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\bin\Debug\netcoreapp3.1\MathIA.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\bin\Debug\netcoreapp3.1\MathIA.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.AssemblyInfoInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.AssemblyInfo.cs
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.csproj.CopyComplete
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.dll
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\MovimientoOsc\obj\Debug\netcoreapp3.1\MovimientoOsc.genruntimeconfig.cache

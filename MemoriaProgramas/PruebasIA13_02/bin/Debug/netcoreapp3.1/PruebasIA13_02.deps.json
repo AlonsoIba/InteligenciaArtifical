@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PruebasIA13_02/1.0.0": {
+        "dependencies": {
+          "MathIA": "1.0.0"
+        },
+        "runtime": {
+          "PruebasIA13_02.dll": {}
+        }
+      },
+      "MathIA/1.0.0": {
+        "runtime": {
+          "MathIA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebasIA13_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathIA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

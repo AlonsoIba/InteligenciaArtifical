@@ -1,0 +1,19 @@
+D:\InteligenciaArtificial\CalculoPi\bin\Debug\CalculoPi.exe.config
+D:\InteligenciaArtificial\CalculoPi\bin\Debug\CalculoPi.exe
+D:\InteligenciaArtificial\CalculoPi\bin\Debug\CalculoPi.pdb
+D:\InteligenciaArtificial\CalculoPi\obj\Debug\CalculoPi.csprojAssemblyReference.cache
+D:\InteligenciaArtificial\CalculoPi\obj\Debug\CalculoPi.Form1.resources
+D:\InteligenciaArtificial\CalculoPi\obj\Debug\CalculoPi.Properties.Resources.resources
+D:\InteligenciaArtificial\CalculoPi\obj\Debug\CalculoPi.csproj.GenerateResource.cache
+D:\InteligenciaArtificial\CalculoPi\obj\Debug\CalculoPi.exe
+D:\InteligenciaArtificial\CalculoPi\obj\Debug\CalculoPi.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\CalculoPi\bin\Debug\CalculoPi.exe.config
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\CalculoPi\bin\Debug\CalculoPi.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\CalculoPi\bin\Debug\CalculoPi.pdb
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\CalculoPi\obj\Debug\CalculoPi.csprojAssemblyReference.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\CalculoPi\obj\Debug\CalculoPi.Form1.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\CalculoPi\obj\Debug\CalculoPi.Properties.Resources.resources
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\CalculoPi\obj\Debug\CalculoPi.csproj.GenerateResource.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\CalculoPi\obj\Debug\CalculoPi.csproj.CoreCompileInputs.cache
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\CalculoPi\obj\Debug\CalculoPi.exe
+C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\CalculoPi\obj\Debug\CalculoPi.pdb

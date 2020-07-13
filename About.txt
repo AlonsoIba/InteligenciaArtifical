@@ -1,0 +1,10 @@
+Ibáñez López Lena Alonso
+Temas Selectos de Programación 2: Inteligencia Artificial
+
+En este comprimido se encuentran todos los programas realizados en clase, la estructura es la siguiente
+○Anexos. Contiene algunos archivos utilziados en los programas
+○Encog. Programas con la api ENCOG para RNA
+○IA_MATLAB. Programas en MATLAB para el curso de HackeandoTec
+○MemoriaProgramas. Programas realizados en el semestre, tanto de consola como de forms, además de la clase propia
+
+En la carpeta Encog y MemoriaProgramas hay un archivo .txt que resume los programas.

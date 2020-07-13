@@ -74,7 +74,6 @@ namespace ED2Orden                                      //Determina la ecuación
                 psi[2][i] = u[0][i];
             }
             theta = Matriz.EstimacionParametrica(y, psi);   //Estimación paramétrica por minimos cuadrados
-
             wn = Math.Sqrt(-theta[0][0]);                   //Frecuencia natural del sistema
             z = -theta[1][0] * wn / 2;                      //Factor de amortiguamiento
             k = theta[2][0];                                //Ganancia

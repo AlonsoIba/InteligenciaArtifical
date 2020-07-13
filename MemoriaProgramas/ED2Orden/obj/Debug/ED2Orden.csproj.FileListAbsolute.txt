@@ -24,3 +24,16 @@ C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2
 C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.csproj.CopyComplete
 C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.exe
 C:\Users\soyal\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\2020-2\InteligenciaArtificial\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.pdb
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\bin\Debug\ED2Orden.exe.config
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\bin\Debug\ED2Orden.exe
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\bin\Debug\ED2Orden.pdb
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\bin\Debug\MathIA.dll
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\bin\Debug\MathIA.pdb
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.csprojAssemblyReference.cache
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.Form1.resources
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.Properties.Resources.resources
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.csproj.GenerateResource.cache
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.csproj.CoreCompileInputs.cache
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.csproj.CopyComplete
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.exe
+C:\Users\soyal\Source\Repos\InteligenciaArtifical\MemoriaProgramas\ED2Orden\obj\Debug\ED2Orden.pdb

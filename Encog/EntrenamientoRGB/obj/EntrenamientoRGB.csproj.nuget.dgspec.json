@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soyal\\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\\Documentos\\2020-2\\InteligenciaArtificial\\Encog\\EntrenamientoRGB\\EntrenamientoRGB.csproj": {}
+    "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\Encog\\EntrenamientoRGB\\EntrenamientoRGB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soyal\\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\\Documentos\\2020-2\\InteligenciaArtificial\\Encog\\EntrenamientoRGB\\EntrenamientoRGB.csproj": {
+    "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\Encog\\EntrenamientoRGB\\EntrenamientoRGB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soyal\\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\\Documentos\\2020-2\\InteligenciaArtificial\\Encog\\EntrenamientoRGB\\EntrenamientoRGB.csproj",
+        "projectUniqueName": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\Encog\\EntrenamientoRGB\\EntrenamientoRGB.csproj",
         "projectName": "EntrenamientoRGB",
-        "projectPath": "C:\\Users\\soyal\\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\\Documentos\\2020-2\\InteligenciaArtificial\\Encog\\EntrenamientoRGB\\EntrenamientoRGB.csproj",
+        "projectPath": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\Encog\\EntrenamientoRGB\\EntrenamientoRGB.csproj",
         "packagesPath": "C:\\Users\\soyal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soyal\\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\\Documentos\\2020-2\\InteligenciaArtificial\\Encog\\EntrenamientoRGB\\obj\\",
+        "outputPath": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\Encog\\EntrenamientoRGB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

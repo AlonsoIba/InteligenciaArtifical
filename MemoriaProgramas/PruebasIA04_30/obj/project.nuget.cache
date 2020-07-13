@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7TZge4QCJCNzz8BkWxSrNNpDTR4HuZq5rw4TfrvsGeseBxEMLHAFyuK9fvlpAHnL3BE6KvGWp9qkIt19cxnWBQ==",
+  "dgSpecHash": "WV6tRuHsvGadxnS4azv2fv1zh+ugH1K9umTUzvuCs06HmDvOu0R7Z+AhOeAnrz/CVozdnaXvsWmwdGUOPj6x2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\MemoriaProgramas\\PruebasIA04_30\\PruebasIA04_30.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\soyal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

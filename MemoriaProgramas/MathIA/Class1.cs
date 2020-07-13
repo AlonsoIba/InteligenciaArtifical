@@ -1022,22 +1022,20 @@ namespace MathIA
         /// <param name="y">Vector de salidas</param>
         /// <param name="psi">Vector regresor</param>
         /// <returns></returns>
-        public static double[][] EstimacionParametrica(double[][] y,double[][] psi)
+        public static double[][] EstimacionParametrica(double[][] y, double[][] psi)
         {
             double[][] theta = Matriz.Zeros(psi.GetLength(0), 1);
             double[][] P = Matriz.Identidad(psi.GetLength(0));
             P = Matriz.Producto(P, 100000000);
             double[][] e = Matriz.Crear(y[0].Length, 1);
-            for (int k = 0; k < 1000; k++)
-            {
-                e = Matriz.Resta(Matriz.Transponer(y), Matriz.Producto(Matriz.Transponer(psi), theta));
-                theta = Matriz.Suma(theta, Matriz.Producto(Matriz.Producto(P, psi),
+            e = Matriz.Resta(Matriz.Transponer(y), Matriz.Producto(Matriz.Transponer(psi), theta));
+            theta = Matriz.Suma(theta, Matriz.Producto(Matriz.Producto(P, psi),
                         Matriz.Producto(Matriz.Inversa(Matriz.Suma(Matriz.Identidad(y[0].Length), Matriz.Producto(
                         Matriz.Transponer(psi), Matriz.Producto(P, psi)))), e)));
-                P = Matriz.Resta(P, Matriz.Producto(Matriz.Producto(P, psi),
+            P = Matriz.Resta(P, Matriz.Producto(Matriz.Producto(P, psi),
                     Matriz.Producto(Matriz.Inversa(Matriz.Suma(Matriz.Identidad(y[0].Length), Matriz.Producto(
                     Matriz.Transponer(psi), Matriz.Producto(P, psi)))), Matriz.Producto(Matriz.Transponer(psi), P))));
-            }
+
             return theta;
         }
         /// <summary>

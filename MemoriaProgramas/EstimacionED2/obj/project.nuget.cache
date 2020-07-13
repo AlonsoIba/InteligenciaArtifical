@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oCjNUXzGkGlNMMhyP0gCdxzHD8dlYp3Sl42Yik/iDADRNud3Wl8QeBP/+FTIu8oMkiuCPdx84GvFRWf9jOtlVA==",
+  "dgSpecHash": "Y4FoSCWReadNJUxyd2VADzuqbQXINNIcdN1OFcoEty5ZmTJJ2l9cyLMquKGIQJwQgrzYfmKu3D6aIunegJ0pcQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\MemoriaProgramas\\EstimacionED2\\EstimacionED2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\soyal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

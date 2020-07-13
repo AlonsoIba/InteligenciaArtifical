@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X4zfF2yMkTc9gab1ldLg8wCsyzqah1oebXgQvUvTqgiA2qDlrhhUPXmrENXDY86r0Ri+HrrQH0zP4gG7xwNvIA==",
+  "dgSpecHash": "EYvJxDRLlYS1/je5fNXOtkjG0jvVz6yK10LMn0XiChyV82dd6lyIiH2RcKhzAKRXZhKqG+DFu9Y5TA4flVRf5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\soyal\\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\\Documentos\\2020-2\\InteligenciaArtificial\\Encog\\XOR\\XOR.csproj",
+  "projectFilePath": "C:\\Users\\soyal\\Source\\Repos\\InteligenciaArtifical\\Encog\\XOR\\XOR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\soyal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

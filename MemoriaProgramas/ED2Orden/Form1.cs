@@ -86,6 +86,7 @@ namespace ED2Orden                                      //Determina la ecuación
             
             
             estimacion = Matriz.Crear(1, t[0].Length);
+            chart1.Series["Estimacion"].Points.Clear();
             for (int i = 0; i < t[0].Length; i++)
             {
                 estimacion[0][i] = A - B * Math.Exp(-C * t[0][i]) * Math.Sin(D * t[0][i] + E);      //Se evlúa la función obtenida
